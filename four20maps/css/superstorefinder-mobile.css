@@ -1,0 +1,120 @@
+*{padding:0;margin:0;}
+body{}
+#wrapper{margin:0 auto;}
+#main{padding:20px;}
+#main h2{border-bottom:1px solid #ccc;padding-bottom:5px;}
+#main .index_add{line-height:18px;}
+fieldset{margin-bottom:1em;padding:.5em;}
+form{margin:0;padding:0;}
+hr{height:1px;border:1px solid gray;}
+img{border:0;}
+table{border-collapse:collapse;}
+th{text-align:left;padding-right:1em;border-bottom:3px solid #ccc;}
+.clear-block:after{content:".";display:block;height:0;clear:both;visibility:hidden;}
+.clear-block{display:inline-block;}
+* html .clear-block{height:1%;}
+.clear-block{display:block;}
+.maps_popup h1{font-size:13px;font-weight:bold;padding:0;margin:0 0 5px 0;}
+.maps_popup h2{font-size:12px;padding:0;margin:0 0 5px 0;}
+.maps_popup .img{float:right;padding:5px;background:#fff;}
+.maps_popup p{padding:0;margin:0px 0px 10px 0px;}
+.maps_popup label{display:block;color:#f86132;}
+.maps_popup a{font-weight:normal;color:#333333;}
+.maps_popup .ft-acolr{display:inline-block;padding:4px;}
+h1, h2, h3, h4, h5, h6, p, ul{margin-bottom:15px;}
+a:hover{text-decoration:none;}
+a img{border:none;}
+ul{margin:0 20px 20px 20px;}
+form{}
+form fieldset{padding:0 20px 20px 20px;}
+form fieldset legend{font-weight:bold;font-size:16px;}
+form fieldset .input{padding:10px 0;}
+form fieldset .input label{display:block;}
+form fieldset .input input{width:100%;}
+form fieldset .input span.required{color:maroon;font-weight:bold;}
+form fieldset .buttons{padding:10px 0 0 0;}
+form fieldset .row .input{float:left;}
+form fieldset .two .input{width:50%;}
+form fieldset .two .first input{width:95%;}
+body.page-clinic-finder{background:none;}
+#edit-submit{margin-left:10px;display:inline;}
+#clinic-finder{position:relative;width:100%;margin:0px auto;}
+#clinic-finder .button{padding:5px 10px;border:1px solid #8b8b8b;font-weight:normal;text-shadow:#fffeff 1px 1px 0;background-color:#e7e7e7;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#fbfbfb), to(#d3d3d3));background-image:-moz-linear-gradient(#fbfbfb 0%, #d3d3d3 90%);-webkit-border-radius:5px;-moz-border-radius:5px;color:#333;cursor:pointer;font-size:16px;}
+ol li.clinic_list{margin-right:10px;}
+#clinic-finder .button:hover{-webkit-box-shadow:0px 0px 5px rgba(0,0,0,0.3);-moz-box-shadow:0px 0px 5px #888;text-decoration:none;border-color:#737373;}
+#clinic-finder .button:active{background-color:#f1f1f1;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#b7b7b7), to(#dedede));background-image:-moz-linear-gradient(#b7b7b7 0%, #dedede 90%);-webkit-box-shadow:none;-moz-box-shadow:none;}
+#clinic-finder .blue-button{background-color:#407cbe;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#407cbe), to(#23518c));background-image:-moz-linear-gradient(#407cbe 0%, #23518c 90%);color:#fff;text-shadow:#0c2942 1px 1px 0;}
+#clinic-finder .blue-button:active{background-color:#4485ce;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#23518c), to(#407cbe));background-image:-moz-linear-gradient(#23518c 0%, #407cbe 90%);color:#fffeff;text-shadow:#0c2942 1px 1px 0;}
+#clinic-finder .links{position:absolute;top:-40px;right:0;padding:5px;}
+#clinic-finder .links a{margin-left:20px;}
+#map_canvas{clear:left;float:left;width:100%;height:530px;}
+#clinic-finder form#clinic-finder-form{padding:0;border:1px solid #dddddd;position:relative;}
+#clinic-finder form#clinic-finder-form .form-item{}
+#clinic-finder form#clinic-finder-form #edit-gmap-address-wrapper{float:left;}
+#clinic-finder form#clinic-finder-form label{font-size:12px;font-weight:normal;font-style:normal;}
+#clinic-finder form#clinic-finder-form input#address{font-size:16px;width:100%;}
+#clinic-finder form#clinic-finder-form input.gmap-find{font-style:normal;*line-height:11px;float:left;padding-top:2px;padding-bottom:2px;margin:36px 0 0;}
+#clinic-finder-form #edit-products-wrapper{float:left;margin-top:0;width:100%;}
+#clinic-finder-form select#edit-products{width:100%;margin-left:0;font-size:16px;}
+#clinic-finder .legend{margin-left:0;background-color:#cfcfcf;background-color:rgba(255,254,255,0.2);position:absolute;top:0;right:0;width:225px;padding-left:15px;border-left:1px solid #b7b7b7;height:100%;-webkit-border-top-right-radius:5px;-webkit-border-bottom-right-radius:5px;-moz-border-radius-topright:5px;-moz-border-radius-bottomright:5px;border-top-right-radius:5px;border-bottom-right-radius:5px;}
+#clinic-finder .legend div{margin-top:3px;}
+#clinic-finder #spinner, #overlay-contact-clinic-form #spinner{background:rgba(0,0,0,0.52) 0;display:block;position:absolute;top:0;right:0;bottom:0;left:0;font-size:24px;text-align:center;padding-top:25%;padding-left:39%;-webkit-border-radius:5px;-moz-border-radius:5px;}
+#clinic-finder #spinner span, #overlay-contact-clinic-form #spinner span{background:rgba(255,196,43,0.9) url(images/ajax-loader.gif) no-repeat center 23px;display:block;width:230px;height:50px;padding-top:70px;-webkit-border-radius:10px;-moz-border-radius:10px;-moz-box-shadow:0px 0px 20px #000;-webkit-box-shadow:0px 0px 20px #000;border:5px solid #d0a127;color:#000;}
+#clinic-finder .distance-units{margin-left:40px;margin-bottom:0;margin-top:3px;position:absolute;top:522px;right:35px;background-color:#608cca;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#FC9F43), to(#FA640A));background-image:-moz-linear-gradient(#FC9F43 0%, #FA640A 90%);text-shadow:rgba(0,0,0,0.34) -1px -1px 3px;-webkit-border-radius:5px;-moz-border-radius:5px;border-style:none;height:26px;display:none;}
+#clinic-finder .distance-units .km{color:#ffffff;}
+#clinic-finder .distance-units .miles{color:#ffffff;}
+#clinic-finder .distance-units input{display:none;}
+#clinic-finder .distance-units label{padding:3px 5px 2px;display:inline-block;float:left;font-size:11px;color:#fffeff;font-weight:bold;text-align:center;}
+#clinic-finder .distance-units label.unchecked{color:#a3a3a3;text-shadow:#fffeff 1px 1px 0;background-color:#e7e7e7;background-image:-webkit-gradient(linear, 0% 0%, 0% 90%, from(#fbfbfb), to(#d3d3d3));background-image:-moz-linear-gradient(#fbfbfb 0%, #d3d3d3 90%);border:1px solid #868686;-webkit-border-radius:5px;-moz-border-radius:5px;padding-top:2px;}
+#clinic-finder .distance-units label.unchecked:hover{cursor:pointer;border-color:#666;}
+#clinic-finder #results{float:left;width:100%;}
+#clinic-finder #results ol{margin:0;overflow:auto;height:480px;padding:0 10px 0 0;position:relative;}
+#clinic-finder #results ol li{color:#333;list-style-image:none;background:url(../img/list-icon.png) no-repeat 10px 5px;list-style-type:none;position:relative;padding:5px 5px 5px 50px;border:1px dashed #c1c1c1;border-bottom-style:none;border-right-color:#ededed;border-left-color:#ededed;zoom:1;clear:both;}
+#clinic-finder #results ol li:hover{background-color:#e0e0e0;cursor:pointer;color:#000;}
+#clinic-finder #results ol li.noclick:hover{background-color:transparent;cursor:default;color:#333;}
+#clinic-finder #results ol li.active{background-color:white;border-left-color:#c1c1c1;border-right-color:#c1c1c1;}
+#clinic-finder #results ol li div.distance{color:#848484;}
+#clinic-finder #results ol li span.number{font-size:18px;display:block;position:absolute;top:12px;left:21px;color:#fff;}
+#clinic-finder #results ol li.double-digit span.number{left:16px;}
+#results h2{display:none;max-width:100%;line-height:20px;}
+#direction h2{max-width:100%;margin-left:6px;margin-right:20px;margin-top:10px;line-height:20px;}
+.gmap-bubble{overflow:hidden;width:220px;}
+.gmap-bubble h2{margin-right:10px;}
+.gmap-bubble .phone, .gmap-bubble .website, .gmap-bubble .products{margin-top:10px;}
+#clinic-finder .gmap-bubble a.loading{background:#4485ce url(images/ajax-loader-small.gif) no-repeat 168px;background:url(images/ajax-loader-small.gif) no-repeat 168px, -webkit-gradient(linear, 0% 0%, 0% 90%, from(#407cbe), to(#23518c));background:url(images/ajax-loader-small.gif) no-repeat 168px, -moz-linear-gradient(#407cbe 0%, #23518c 90%);}
+.gmap-bubble .edit-link{position:absolute;bottom:0;right:0;}
+div.fluster-div{position:relative;}
+div.fluster-div span{position:absolute;top:44px;right:53px;}
+#clinic-finder .products div{font-size:12px;overflow:hidden;}
+#results .products{height:22px;position:absolute;bottom:1px;right:3px;}
+#results .products span{display:inline-block;width:2px;height:22px;margin-top:-2px;opacity:0.5;}
+#results li.active .products span, #results li:hover .products span{opacity:1;}
+.product-checkboxes .form-item label{height:22px;display:block;}
+.products div, .product-checkboxes .form-item label{padding-left:25px;line-height:22px;color:#585858;display:block;}
+div#logo{background:url(../admin/images/logo.png) no-repeat;width:321px;height:92px;margin:5px;}
+.footer{}
+.footer p{margin-bottom:0;color:#777;}
+.footer-links{margin:10px 0;}
+.footer-links li{display:inline;padding:0 2px;}
+.footer-links li:first-child{padding-left:0;}
+#map_canvas.newstore_map{width:100%;height:250px;clear:both;display:block;}
+#clinic-finder #direction{display:block;float:left;width:100%;padding-left:20px;min-height:460px;padding-top:10px;padding-right:5px;}
+#clinic-finder #direction{margin:0;overflow:auto;height:500px;max-width:100%;padding:5px 10px 5px 5px;position:relative;display:none;}
+#clinic-finder #direction table td{color:#333;position:relative;padding:5px 5px 5px 10px;border:1px dashed #c1c1c1;border-bottom-style:none;border-right-color:#ededed;border-left-color:#ededed;zoom:1;clear:both;}
+#clinic-finder #direction .adp-text{text-indent:10px;}
+#clinic-finder #direction .adp-directions{width:100%;}
+#clinic-finder #direction .adp-placemark{color:#333 !important;position:relative !important;padding:5px 5px 5px 5px !important;border:1px dashed #c1c1c1 !important;border-bottom-style:none !important;border-right-color:#ededed !important;border-left-color:#ededed !important;zoom:1 !important;clear:both !important;}
+#clinic-finder #direction input.orides-txt{width:120px;padding-left:10px;}
+#clinic-finder #direction .get-dir-button{padding-left:2px;}
+#clinic-finder #direction table td:hover{cursor:pointer;}
+#clinic-finder #direction ol li.noclick:hover{background-color:transparent;cursor:default;color:#333;}
+#clinic-finder #direction ol li.active{background-color:white;border-left-color:#c1c1c1;border-right-color:#c1c1c1;}
+#clinic-finder #direction ol li div.distance{color:#848484;}
+#clinic-finder #direction ol li span.number{font-size:18px;display:block;position:absolute;top:12px;left:21px;color:#fff;}
+#clinic-finder #direction ol li.double-digit span.number{left:16px;}
+#direction h2{max-width:100%;line-height:20px;}
+.rateuswps{border-right:1px solid #212121;float:left;margin-right:10px;padding-right:10px;}
+.review-wps{float:left;}
+.input-schbx{float:left;position:relative;}
+.input-schbx .icn-closebtn{background-image:url(../img/searchbtn-close.png);background-repeat:no-repeat;background-position:right center;background-color:inherit;border:0 none;font-size:0;height:32px;position:absolute;right:0;width:30px;}
+.maps_popup{width:230px;}

@@ -1,0 +1,633 @@
+[20-Sep-2017 12:17:56 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:18:31 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:19:41 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:21:09 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:30:01 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:30:41 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:31:47 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 12:31:57 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:14:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 22
+[20-Sep-2017 15:26:58 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:53:20 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:53:24 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:53:35 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:55:05 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:56:47 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:56:47 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:58:44 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:59:36 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 15:59:45 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 16:08:01 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 16:10:17 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 16:10:26 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:34:03 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:34:08 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:34:11 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:34:21 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:34:56 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[20-Sep-2017 18:35:10 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[21-Sep-2017 15:20:51 UTC] PHP Warning:  json_encode() expects at most 2 parameters, 12 given in /home/four20maps/public_html/getProductsByStorecheck.php on line 57
+[21-Sep-2017 15:21:00 UTC] PHP Warning:  json_encode() expects at most 2 parameters, 12 given in /home/four20maps/public_html/getProductsByStorecheck.php on line 57
+[22-Sep-2017 17:05:05 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 17:28:01 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 17:28:29 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 17:33:39 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 17:46:52 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 20:32:04 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[22-Sep-2017 20:33:57 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:18:14 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:26:36 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:29:06 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:31:59 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:32:18 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:33:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/tickerprefernce.php on line 108
+[25-Sep-2017 07:33:35 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:33:59 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:34:11 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/tickerprefernce.php on line 108
+[25-Sep-2017 07:34:18 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:35:47 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:54:35 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:55:00 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:55:25 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:55:33 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:56:06 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 07:56:14 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:03:10 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 75
+[25-Sep-2017 08:03:10 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 101
+[25-Sep-2017 08:03:10 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:06:46 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:07:04 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:07:13 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:12:30 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 75
+[25-Sep-2017 08:12:30 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 101
+[25-Sep-2017 08:12:30 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 08:59:07 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 75
+[25-Sep-2017 08:59:07 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 101
+[25-Sep-2017 08:59:07 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:15:27 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:15:33 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:18:26 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:21:07 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:31:03 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:36:45 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:49:10 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:56:58 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[25-Sep-2017 20:57:07 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 15:15:03 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 144
+[26-Sep-2017 15:15:03 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 15:15:35 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 144
+[26-Sep-2017 15:15:35 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 15:18:51 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 144
+[26-Sep-2017 15:18:51 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 15:19:34 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 15:20:08 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 17:33:18 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 17:38:13 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 17:59:00 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 18:02:19 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 18:14:25 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 145
+[26-Sep-2017 18:14:25 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:36:55 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/testexmail.php on line 15
+[26-Sep-2017 19:37:35 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/testexmail.php on line 15
+[26-Sep-2017 19:41:36 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:44:17 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:45:33 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:45:44 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:45:51 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:46:09 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:47:07 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:55:16 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 19:56:10 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 20:23:53 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[26-Sep-2017 20:44:08 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/four20maps/public_html/index.php on line 80
+[27-Sep-2017 12:53:52 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 141
+[27-Sep-2017 12:53:52 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[27-Sep-2017 12:55:44 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 141
+[27-Sep-2017 12:55:44 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 43
+[27-Sep-2017 14:53:12 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 42
+[28-Sep-2017 12:52:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:52:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:52:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:52:59 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:14 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:15 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:16 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:18 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:20 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:20 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:23 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:54:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/language/en_US.php:1) in /home/four20maps/public_html/harsha_ajax.php on line 3
+[28-Sep-2017 12:54:31 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 10
+[28-Sep-2017 12:55:24 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 11
+[28-Sep-2017 12:55:25 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 11
+[28-Sep-2017 13:13:04 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 12
+[28-Sep-2017 13:13:09 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 12
+[28-Sep-2017 13:14:20 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/four20maps/public_html/harsha_ajax.php on line 88
+[28-Sep-2017 13:17:08 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 12
+[28-Sep-2017 13:17:56 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 22
+[28-Sep-2017 13:18:01 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 22
+[28-Sep-2017 13:19:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 22
+[28-Sep-2017 13:21:44 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 22
+[28-Sep-2017 13:21:45 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/harsha_ajax.php on line 22
+[28-Sep-2017 13:42:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/four20maps/public_html/index.php on line 210
+[28-Sep-2017 13:45:54 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/four20maps/public_html/index.php on line 210
+[28-Sep-2017 14:36:23 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/four20maps/public_html/index.php on line 78
+[28-Sep-2017 15:24:38 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 42
+[28-Sep-2017 15:26:36 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 42
+[29-Sep-2017 16:55:01 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 42
+[29-Sep-2017 16:55:11 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[29-Sep-2017 16:55:11 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 44
+[29-Sep-2017 16:55:12 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[29-Sep-2017 16:55:12 UTC] PHP Notice:  Undefined variable: base_url in /home/four20maps/public_html/themes/footer.inc.php on line 44
+[29-Sep-2017 18:12:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[30-Sep-2017 18:41:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:1) in /home/four20maps/public_html/index.php on line 2
+[30-Sep-2017 18:41:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:1) in /home/four20maps/public_html/index.php on line 2
+[30-Sep-2017 18:41:12 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:1) in /home/four20maps/public_html/index.php on line 2
+[30-Sep-2017 18:41:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:1) in /home/four20maps/public_html/index.php on line 2
+[30-Sep-2017 18:41:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:1) in /home/four20maps/public_html/index.php on line 2
+[30-Sep-2017 21:42:56 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[02-Oct-2017 12:27:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 1590
+[02-Oct-2017 13:49:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 464
+[02-Oct-2017 13:53:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 472
+[02-Oct-2017 13:54:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 471
+[02-Oct-2017 14:38:20 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 213
+[02-Oct-2017 20:46:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[02-Oct-2017 20:51:07 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[02-Oct-2017 21:18:31 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/addproduct.php on line 33
+[02-Oct-2017 21:36:12 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 110
+[02-Oct-2017 21:36:12 UTC] PHP Notice:  Undefined variable: product_id in /home/four20maps/public_html/includes/functions.php on line 112
+[02-Oct-2017 21:38:03 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 110
+[02-Oct-2017 21:38:03 UTC] PHP Notice:  Undefined variable: product_id in /home/four20maps/public_html/includes/functions.php on line 112
+[02-Oct-2017 21:38:16 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 110
+[02-Oct-2017 21:38:16 UTC] PHP Notice:  Undefined variable: product_id in /home/four20maps/public_html/includes/functions.php on line 112
+[02-Oct-2017 21:49:00 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 111
+[02-Oct-2017 21:49:00 UTC] PHP Notice:  Undefined variable: product_id in /home/four20maps/public_html/includes/functions.php on line 113
+[02-Oct-2017 21:50:40 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 111
+[02-Oct-2017 21:52:55 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 114
+[02-Oct-2017 21:53:06 UTC] PHP Notice:  Undefined index: categoryID in /home/four20maps/public_html/addproduct.php on line 41
+[02-Oct-2017 21:53:21 UTC] PHP Notice:  Undefined index: categoryID in /home/four20maps/public_html/addproduct.php on line 41
+[02-Oct-2017 21:54:19 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 114
+[02-Oct-2017 21:54:29 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 114
+[02-Oct-2017 21:55:22 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 114
+[02-Oct-2017 21:58:04 UTC] PHP Notice:  Undefined variable: pid in /home/four20maps/public_html/includes/functions.php on line 115
+[02-Oct-2017 22:00:23 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[02-Oct-2017 22:06:24 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[03-Oct-2017 06:27:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 466
+[03-Oct-2017 19:08:23 UTC] PHP Warning:  Unterminated comment starting line 924 in /home/four20maps/public_html/index.php on line 924
+[03-Oct-2017 19:08:23 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:924) in /home/four20maps/public_html/index.php on line 2
+[03-Oct-2017 19:12:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 80
+[03-Oct-2017 19:28:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 80
+[03-Oct-2017 19:29:30 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/four20maps/public_html/index.php on line 607
+[03-Oct-2017 21:38:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 213
+[03-Oct-2017 21:38:30 UTC] PHP Warning:  Unterminated comment starting line 925 in /home/four20maps/public_html/index.php on line 925
+[03-Oct-2017 21:38:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:925) in /home/four20maps/public_html/index.php on line 2
+[03-Oct-2017 22:24:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 80
+[03-Oct-2017 22:24:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 213
+[04-Oct-2017 13:19:41 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 141
+[04-Oct-2017 15:33:18 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[04-Oct-2017 15:33:41 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/tickerprefernce.php on line 17
+[04-Oct-2017 22:45:10 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[04-Oct-2017 23:03:09 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 141
+[04-Oct-2017 23:36:51 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/storedetails.php on line 141
+[05-Oct-2017 02:29:05 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[05-Oct-2017 02:37:34 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[05-Oct-2017 15:27:41 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 22
+[05-Oct-2017 15:27:41 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[05-Oct-2017 18:33:05 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/four20maps/public_html/stores.php on line 90
+[05-Oct-2017 18:44:14 UTC] PHP Parse error:  syntax error, unexpected ''clos' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/four20maps/public_html/index.php on line 274
+[05-Oct-2017 18:46:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 1767
+[05-Oct-2017 18:53:33 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/four20maps/public_html/index.php on line 37
+[05-Oct-2017 18:54:33 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/four20maps/public_html/index.php on line 37
+[05-Oct-2017 18:54:33 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/four20maps/public_html/index.php on line 37
+[05-Oct-2017 18:55:06 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/four20maps/public_html/index.php on line 37
+[05-Oct-2017 18:55:07 UTC] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting ')' in /home/four20maps/public_html/index.php on line 37
+[06-Oct-2017 22:32:02 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[06-Oct-2017 23:02:08 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 22
+[08-Oct-2017 05:57:33 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 52
+[08-Oct-2017 05:58:59 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 82
+[08-Oct-2017 05:59:38 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 82
+[08-Oct-2017 06:16:41 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 52
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: qty in /home/four20maps/public_html/includes/functions.php on line 27
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: productDescription in /home/four20maps/public_html/includes/functions.php on line 28
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: cost in /home/four20maps/public_html/includes/functions.php on line 47
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: qty in /home/four20maps/public_html/includes/functions.php on line 48
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: productDescription in /home/four20maps/public_html/includes/functions.php on line 49
+[08-Oct-2017 06:20:12 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 52
+[08-Oct-2017 06:20:15 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 52
+[08-Oct-2017 21:46:28 UTC] PHP Notice:  Undefined index: store_name in /home/four20maps/public_html/includes/functions.php on line 52
+[09-Oct-2017 03:49:02 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[09-Oct-2017 09:37:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 80
+[09-Oct-2017 13:57:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 214
+[09-Oct-2017 18:33:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 80
+[09-Oct-2017 18:33:04 UTC] PHP Warning:  Unterminated comment starting line 962 in /home/four20maps/public_html/index.php on line 962
+[09-Oct-2017 18:33:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:962) in /home/four20maps/public_html/index.php on line 2
+[09-Oct-2017 18:36:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/four20maps/public_html/index.php on line 467
+[09-Oct-2017 18:42:54 UTC] PHP Warning:  Unterminated comment starting line 962 in /home/four20maps/public_html/index.php on line 962
+[09-Oct-2017 18:42:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:962) in /home/four20maps/public_html/index.php on line 2
+[09-Oct-2017 18:55:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ';' in /home/four20maps/public_html/index.php on line 467
+[10-Oct-2017 08:37:17 UTC] PHP Notice:  Undefined index: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 141
+[10-Oct-2017 08:40:14 UTC] PHP Notice:  Undefined variable: StoreUserSubscriptionId in /home/four20maps/public_html/storedetails.php on line 141
+[10-Oct-2017 08:42:59 UTC] PHP Notice:  Undefined variable: StoreUserSubscriptionId in /home/four20maps/public_html/storedetails.php on line 141
+[10-Oct-2017 08:46:32 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[10-Oct-2017 09:10:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/four20maps/public_html/categories.php on line 93
+[10-Oct-2017 09:10:50 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/four20maps/public_html/categories.php on line 93
+[10-Oct-2017 09:11:35 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/four20maps/public_html/categories.php on line 93
+[10-Oct-2017 09:12:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/four20maps/public_html/categories.php on line 93
+[10-Oct-2017 09:15:09 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[10-Oct-2017 10:24:58 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[10-Oct-2017 10:38:41 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[10-Oct-2017 18:02:38 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[10-Oct-2017 18:19:34 UTC] PHP Warning:  Unterminated comment starting line 955 in /home/four20maps/public_html/index.php on line 955
+[10-Oct-2017 18:19:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:955) in /home/four20maps/public_html/index.php on line 2
+[10-Oct-2017 19:25:01 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/four20maps/public_html/index.php on line 699
+[10-Oct-2017 20:36:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 87
+[11-Oct-2017 18:12:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test.php on line 5
+[11-Oct-2017 18:12:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test.php on line 5
+[11-Oct-2017 19:13:53 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[11-Oct-2017 19:13:53 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[11-Oct-2017 19:16:24 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[11-Oct-2017 20:48:37 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[12-Oct-2017 20:09:17 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/reg.php on line 59
+[12-Oct-2017 20:09:43 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/reg.php on line 59
+[12-Oct-2017 20:10:19 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/reg.php on line 59
+[12-Oct-2017 20:13:40 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/reg.php on line 59
+[12-Oct-2017 20:15:22 UTC] PHP Warning:  mail(): Multiple or malformed newlines found in additional_header in /home/four20maps/public_html/reg.php on line 59
+[16-Oct-2017 19:24:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 87
+[16-Oct-2017 19:24:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 204
+[16-Oct-2017 19:24:48 UTC] PHP Warning:  Unterminated comment starting line 956 in /home/four20maps/public_html/index.php on line 956
+[16-Oct-2017 19:24:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/four20maps/public_html/index.php:956) in /home/four20maps/public_html/index.php on line 2
+[16-Oct-2017 20:33:04 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[17-Oct-2017 02:39:08 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[17-Oct-2017 20:58:24 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[18-Oct-2017 14:08:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 913
+[18-Oct-2017 17:55:31 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[18-Oct-2017 17:55:37 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[18-Oct-2017 17:55:44 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[18-Oct-2017 18:12:50 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ']' in /home/four20maps/public_html/index.php on line 471
+[18-Oct-2017 18:15:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 87
+[18-Oct-2017 18:20:44 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 941
+[18-Oct-2017 18:51:03 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 939
+[18-Oct-2017 19:10:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 87
+[20-Oct-2017 07:59:44 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[21-Oct-2017 16:46:51 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[21-Oct-2017 16:47:16 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[21-Oct-2017 16:49:09 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[21-Oct-2017 22:07:38 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[21-Oct-2017 22:07:38 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[21-Oct-2017 22:07:38 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[23-Oct-2017 17:56:01 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[23-Oct-2017 22:59:07 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[23-Oct-2017 22:59:07 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[23-Oct-2017 22:59:07 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[23-Oct-2017 22:59:34 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[23-Oct-2017 22:59:34 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[23-Oct-2017 22:59:34 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[24-Oct-2017 17:41:20 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:42:01 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:43:31 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:44:25 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:45:21 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:45:41 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 17:46:33 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:13:00 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:13:23 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:47:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 31
+[25-Oct-2017 19:47:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 54
+[25-Oct-2017 19:47:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 146
+[25-Oct-2017 19:47:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[25-Oct-2017 19:47:28 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[25-Oct-2017 19:49:46 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[25-Oct-2017 19:55:14 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:55:42 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:56:09 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 19:56:28 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[25-Oct-2017 21:08:36 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[26-Oct-2017 15:34:42 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/deleterecord.php on line 20
+[26-Oct-2017 17:18:55 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/deleterecord.php on line 20
+[26-Oct-2017 17:19:14 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[26-Oct-2017 19:11:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/four20maps/public_html/index.php on line 490
+[26-Oct-2017 19:11:59 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/four20maps/public_html/index.php on line 490
+[26-Oct-2017 19:12:12 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/four20maps/public_html/index.php on line 490
+[26-Oct-2017 19:12:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/index.php on line 526
+[26-Oct-2017 19:12:26 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/index.php on line 526
+[26-Oct-2017 19:12:59 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/index.php on line 526
+[26-Oct-2017 19:13:00 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/index.php on line 526
+[26-Oct-2017 19:13:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/index.php on line 526
+[26-Oct-2017 19:13:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/four20maps/public_html/index.php on line 470
+[27-Oct-2017 18:29:23 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[27-Oct-2017 19:53:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[27-Oct-2017 19:53:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[28-Oct-2017 07:45:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[28-Oct-2017 07:45:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[28-Oct-2017 07:45:14 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[28-Oct-2017 07:45:14 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[28-Oct-2017 07:45:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[28-Oct-2017 07:45:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[28-Oct-2017 07:45:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[28-Oct-2017 07:45:29 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[30-Oct-2017 21:03:26 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[30-Oct-2017 21:03:26 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[31-Oct-2017 20:36:39 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[31-Oct-2017 20:36:42 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[31-Oct-2017 20:36:42 UTC] PHP Notice:  Undefined index: category in /home/four20maps/public_html/addproduct.php on line 34
+[31-Oct-2017 20:36:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[31-Oct-2017 20:36:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[31-Oct-2017 20:36:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[31-Oct-2017 20:36:51 UTC] PHP Notice:  Undefined index: category in /home/four20maps/public_html/addproduct.php on line 34
+[31-Oct-2017 20:36:51 UTC] PHP Notice:  Undefined variable: result in /home/four20maps/public_html/includes/functions.php on line 220
+[01-Nov-2017 19:28:25 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[02-Nov-2017 17:21:38 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[02-Nov-2017 17:21:48 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[02-Nov-2017 17:46:11 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[03-Nov-2017 19:08:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[03-Nov-2017 19:08:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[03-Nov-2017 19:08:29 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[06-Nov-2017 12:34:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 470
+[08-Nov-2017 12:31:46 UTC] PHP Notice:  Undefined variable: ten_price in /home/four20maps/public_html/includes/functions.php on line 114
+[08-Nov-2017 12:31:46 UTC] PHP Notice:  Undefined variable: hundered_price in /home/four20maps/public_html/includes/functions.php on line 114
+[08-Nov-2017 12:37:28 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index1.php on line 207
+[08-Nov-2017 12:50:32 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index1.php on line 832
+[08-Nov-2017 17:55:00 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[08-Nov-2017 17:55:00 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[08-Nov-2017 17:55:52 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[08-Nov-2017 17:55:52 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[08-Nov-2017 19:28:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 207
+[08-Nov-2017 19:32:11 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/four20maps/public_html/test_index.php on line 2028
+[08-Nov-2017 19:51:13 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/four20maps/public_html/test_index.php on line 2028
+[08-Nov-2017 20:00:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 848
+[08-Nov-2017 20:52:59 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 87
+[08-Nov-2017 21:29:27 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 842
+[09-Nov-2017 12:33:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 212
+[09-Nov-2017 12:36:05 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/four20maps/public_html/test_index.php on line 89
+[09-Nov-2017 12:39:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ',' or ')' in /home/four20maps/public_html/test_index.php on line 89
+[09-Nov-2017 12:46:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/test_index.php on line 212
+[10-Nov-2017 10:51:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 1014
+[14-Nov-2017 20:54:16 UTC] PHP Warning:  require_once(../vendor/autoload.php): failed to open stream: No such file or directory in /home/four20maps/public_html/sendsms.php on line 21
+[14-Nov-2017 20:54:16 UTC] PHP Fatal error:  require_once(): Failed opening required '../vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/four20maps/public_html/sendsms.php on line 21
+[14-Nov-2017 20:55:02 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/four20maps/public_html/Nexmo/Client.php on line 303
+[14-Nov-2017 21:05:53 UTC] PHP Notice:  Undefined variable: fields_string in /home/four20maps/public_html/sendsms.php on line 32
+[14-Nov-2017 21:05:53 UTC] PHP Notice:  Undefined variable: message in /home/four20maps/public_html/sendsms.php on line 48
+[14-Nov-2017 21:06:13 UTC] PHP Notice:  Undefined variable: fields_string in /home/four20maps/public_html/sendsms.php on line 31
+[14-Nov-2017 21:06:14 UTC] PHP Notice:  Undefined variable: message in /home/four20maps/public_html/sendsms.php on line 47
+[14-Nov-2017 21:06:49 UTC] PHP Notice:  Undefined variable: fields_string in /home/four20maps/public_html/sendsms.php on line 31
+[14-Nov-2017 21:06:49 UTC] PHP Notice:  Undefined variable: message in /home/four20maps/public_html/sendsms.php on line 47
+[15-Nov-2017 18:19:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/index.php on line 86
+[16-Nov-2017 20:12:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:12:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:12:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:12:18 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:12:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/four20maps/public_html/includes/functions.php on line 68
+[16-Nov-2017 20:16:46 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:16:46 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:16:46 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:16:46 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:18:23 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:00 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:19:25 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:21:52 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:12 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:23:48 UTC] PHP Notice:  Undefined variable: result in /home/four20maps/public_html/includes/functions.php on line 237
+[16-Nov-2017 20:26:22 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:26:22 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:32:55 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:32:55 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:32:55 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:33:27 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:33:27 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:33:27 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:34:03 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:34:03 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:34:03 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:34:16 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:34:16 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:34:16 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:34:29 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:34:29 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:34:29 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:34:36 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:34:36 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:34:36 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:35:14 UTC] PHP Notice:  Undefined index: cat_description in /home/four20maps/public_html/includes/functions.php on line 9
+[16-Nov-2017 20:35:14 UTC] PHP Notice:  Undefined variable: newVal in /home/four20maps/public_html/includes/functions.php on line 4
+[16-Nov-2017 20:35:14 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 121
+[16-Nov-2017 20:37:32 UTC] PHP Notice:  Undefined offset: 0 in /home/four20maps/public_html/includes/functions.php on line 119
+[24-Nov-2017 16:07:34 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[24-Nov-2017 16:08:18 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/categories.php on line 27
+[24-Nov-2017 17:51:35 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[24-Nov-2017 17:51:35 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[24-Nov-2017 17:51:35 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[24-Nov-2017 17:51:35 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[24-Nov-2017 18:46:06 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[24-Nov-2017 18:46:06 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[07-Dec-2017 02:18:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[07-Dec-2017 02:18:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[07-Dec-2017 02:18:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[07-Dec-2017 02:18:57 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[12-Dec-2017 19:53:21 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[14-Dec-2017 10:46:20 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[15-Dec-2017 20:36:44 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[04-Jan-2018 11:58:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'four20maps'@'localhost' (using password: NO) in /home/four20maps/public_html/admin-left.php on line 9
+[04-Jan-2018 11:58:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/four20maps/public_html/admin-left.php on line 9
+[04-Jan-2018 11:58:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/four20maps/public_html/admin-left.php on line 20
+[04-Jan-2018 22:43:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 35
+[04-Jan-2018 22:43:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 61
+[04-Jan-2018 22:43:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/includes/functions.php on line 157
+[04-Jan-2018 22:43:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/productdetails.php on line 38
+[04-Jan-2018 22:43:57 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[04-Jan-2018 23:51:44 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[04-Jan-2018 23:52:06 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[04-Jan-2018 23:53:13 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[04-Jan-2018 23:54:29 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[04-Jan-2018 23:55:02 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[05-Jan-2018 10:46:05 UTC] PHP Warning:  require_once(Spreadsheet/Excel/Reader/OLERead.php): failed to open stream: No such file or directory in /home/four20maps/public_html/Excel/reader.php on line 31
+[05-Jan-2018 10:46:05 UTC] PHP Fatal error:  require_once(): Failed opening required 'Spreadsheet/Excel/Reader/OLERead.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/four20maps/public_html/Excel/reader.php on line 31
+[06-Jan-2018 01:22:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[06-Jan-2018 01:22:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[06-Jan-2018 01:22:43 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[06-Jan-2018 01:22:43 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[12-Feb-2018 22:44:54 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[12-Feb-2018 22:44:54 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[12-Feb-2018 22:44:54 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[12-Feb-2018 22:44:54 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[13-Feb-2018 18:56:37 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[13-Feb-2018 18:56:54 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[13-Feb-2018 18:57:09 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[13-Feb-2018 18:57:25 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[13-Feb-2018 18:57:37 UTC] PHP Notice:  Undefined index: SubscriptionCategoryId in /home/four20maps/public_html/includes/functions.php on line 119
+[27-Mar-2018 03:26:04 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[27-Mar-2018 03:26:04 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[27-Mar-2018 03:26:04 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[27-Mar-2018 03:26:04 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143
+[27-Mar-2018 03:26:16 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 76
+[27-Mar-2018 03:26:16 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/admin-left.php on line 9
+[27-Mar-2018 03:26:16 UTC] PHP Notice:  Undefined index: StoreID in /home/four20maps/public_html/storedetails.php on line 103
+[27-Mar-2018 03:26:16 UTC] PHP Notice:  Undefined variable: SubscriptionTypeId in /home/four20maps/public_html/storedetails.php on line 143

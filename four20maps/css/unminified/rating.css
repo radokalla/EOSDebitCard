@@ -1,0 +1,56 @@
+.rating {
+  margin: 10px 0;
+}
+.rating i {
+  display: inline-block;
+  width: 0;
+  height: 1.5em;
+		/*border-width: 0 0.75em;*/
+  border-width: 0;
+  border-style: solid;
+  border-color: #eee;
+  /*border-radius: .22em;*/
+		border-radius:0;
+  color:#ccc;
+  font-style: normal;
+  line-height: 1.6em;
+  /*text-indent: -0.5em;
+  text-shadow: 1px 0 1px #b3b3b3;*/
+		text-shadow:none;
+}
+[data-rate^='1'] .star-1 {
+		color:#cc8b1f;
+}
+[data-rate='1.5'] .star-2 {
+		color:#cc8b1f;
+}
+[data-rate^='2'] .star-1, [data-rate^='2'] .star-2 {
+		color:#dcb228;
+}
+[data-rate='2.5'] .star-3 {
+		color:#dcb228;
+}
+[data-rate^='3'] .star-1, [data-rate^='3'] .star-2, [data-rate^='3'] .star-3 {
+		color:#f0991e;
+}
+[data-rate='3.5'] .star-4 {
+		color:#f0991e;
+}
+[data-rate^='4'] .star-1, [data-rate^='4'] .star-2, [data-rate^='4'] .star-3, [data-rate^='4'] .star-4 {
+		color:#f26a2c;
+}
+[data-rate='4.5'] .star-5 {
+		color:#f26a2c;
+}
+[data-rate='5'] i {
+		color:#dd050b;
+}
+/** Print */
+@media print {
+  .rating {
+    -webkit-print-color-adjust: exact;
+  }
+  .rating i {
+    text-shadow: none;
+  }
+}

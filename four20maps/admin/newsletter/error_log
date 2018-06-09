@@ -1,0 +1,2 @@
+[18-Oct-2017 13:29:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/four20maps/public_html/admin/newsletter/php/class.newsletter.php on line 1664
+[18-Oct-2017 13:31:23 UTC] PHP Fatal error:  Class 'PHPMailer' not found in /home/four20maps/public_html/admin/newsletter/php/class.newsletter.php on line 503

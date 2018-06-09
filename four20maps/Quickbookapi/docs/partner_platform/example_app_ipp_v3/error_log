@@ -1,0 +1,6 @@
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 27, needed: 32 in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 73
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  mdecrypt_generic(): An empty string was passed in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 74
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 83
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  mcrypt_generic_init(): Iv size incorrect; supplied length: 30, needed: 32 in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 73
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  mdecrypt_generic(): An empty string was passed in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 74
+[16-Nov-2017 11:34:18 UTC] PHP Warning:  current() expects parameter 1 to be array, boolean given in /home/four20maps/public_html/Quickbookapi/QuickBooks/Encryption/Aes.php on line 83
