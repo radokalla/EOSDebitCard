@@ -5,7 +5,7 @@
 
 #include <EOSDebitCard.hpp>
 
-namespace eosio {
+using namespace eosio;
 
 void debitcard::create( account_name issuer,
                     asset        maximum_supply )
@@ -27,6 +27,7 @@ void debitcard::create( account_name issuer,
        s.issuer        = issuer;
     });
 }
+
 
 
 void debitcard::issue( account_name to, asset quantity, string memo )
@@ -115,6 +116,4 @@ void debitcard::add_balance( account_name owner, asset value, account_name ram_p
    }
 }
 
-} /// namespace eosio
-
-EOSIO_ABI( eosio::debitcard, (create)(issue)(transfer) )
+EOSIO_ABI( debitcard, (create)(issue)(transfer) )
