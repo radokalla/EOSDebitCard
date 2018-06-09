@@ -1,0 +1,9 @@
+[11-Aug-2015 13:29:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'four20maps'@'localhost' (using password: NO) in /home/four20maps/public_html/admin/storesdb.php on line 16
+[11-Aug-2015 13:29:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/four20maps/public_html/admin/storesdb.php on line 16
+[11-Aug-2015 13:29:52 UTC] PHP Fatal error:  Call to undefined function db_connect() in /home/four20maps/public_html/admin/storesdb.php on line 2
+[11-Aug-2015 13:43:58 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/four20maps/public_html/admin/subscription.php on line 81
+[11-Aug-2015 15:09:38 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home/four20maps/public_html/admin/storesdb.php on line 32
+[11-Aug-2015 15:10:02 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/four20maps/public_html/admin/storesdb.php on line 33
+[12-Aug-2015 07:48:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/four20maps/public_html/admin/store_users.php on line 73
+[12-Aug-2015 07:48:47 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/four20maps/public_html/admin/store_users.php on line 73
+[12-Aug-2015 07:49:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/four20maps/public_html/admin/store_users.php on line 73

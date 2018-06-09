@@ -1,0 +1,502 @@
+/*
+
+* Skeleton V1.1
+
+* Copyright 2011, Dave Gamache
+
+* www.getskeleton.com
+
+* Free to use under the MIT license.
+
+* http://www.opensource.org/licenses/mit-license.php
+
+* 8/17/2011
+
+*/
+
+
+
+/* Table of Contents
+
+==================================================
+
+00. RETINA CSS
+
+01. TESTING TEXT
+
+02. BASE STYLES (1140px)
+
+03. #DESKTOP (960px)
+
+04. #Tablet (Portrait)
+
+05. #Mobile (Portrait)
+
+06. #Mobile (Landscape)
+
+*/
+
+
+
+
+
+/*
+
+=============================================== 00. RETINA CSS ===============================================
+
+*/
+
+@media screen and (-webkit-min-device-pixel-ratio: 1.5) {
+
+
+
+	nav select {background-image: url(../images/select-arrow@2x.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 40%, #e8e8e8) !important;background: linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+
+	background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);background-position: center right; background-repeat: no-repeat; background-size:contain;}
+
+	.advanced-search-form select, #panel-search select {background-image: url(../images/select-arrow2@2x.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 90%, #e8e8e8) !important;background: linear-gradient(#FAFAFA, #F4F4F4 90%, #e8e8e8);
+
+	background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 90%, #e8e8e8);background-position: center right; background-repeat: no-repeat; background-size:contain;}
+
+	#sortable-search select {background-image: url(../images/select-arrow2@2x.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 90%, #e8e8e8) !important;background: linear-gradient(#FAFAFA, #F4F4F4 90%, #e8e8e8);
+
+	background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 90%, #e8e8e8);background-position: center right; background-repeat: no-repeat; background-size:contain;}
+
+	ul.checkmark li {background-image: url(../images/checkmark@2x.png); background-size: 11px 12px; }
+
+	ul.arrow li { background-image:url(../images/sidebar-arrow@2x.png); background-size:15px 35px;}
+
+	.flex-direction-nav a {background-image: url(../images/slider/direct-nav@2x.png); background-size:80px 40px;}
+
+	.search-drop-down {background-image:url(../images/search-drop-down@2x.png); background-size:45px 46px;}
+
+	#search-container label.assistive-text { background-image:url(../images/assistive-text@2x.png); background-size:40px 40px;}
+
+	span.phone-header-top { background-image:url(../images/phone-header-top@2x.png); background-size:20px 25px;}
+
+	a.email-header-top {background-image:url(../images/email-header-top@2x.png); background-size:20px 25px;}
+
+	a#scrollToTop {  background-image:url(../images/back-to-top@2x.png); background-size:82px 200px;}
+
+	.flex-control-paging li a {background: url(../images/slider/button@2x.png); background-size:20px 60px;}
+
+	#sidebar ul li {background-image:url(../images/sidebar-list@2x.png); background-size:8px 7px;}
+
+	footer ul li { background-image:url(../images/footer-list@2x.png) ; background-size:8px 7px;}
+
+	.social-icons-widget a {background-image:url(../images/social-icons@2x.png); background-size:684px 48px; }
+
+	#sidebar .searchform, footer .searchform {background-image:url(../images/magnify@2x.png); background-size:28px 28px;}
+
+	input#price-min, input#price-max {background-image:url(../images/dollar-sign@2x.png); background-size:20px 22px;}
+
+	.property-status, .property-highlight .sq-highlight, .property-highlight .bed-higlight, .property-highlight .bath-higlight, .property-highlight .garage-higlight, .property-highlight .time-higlight {background-image: url(../images/property-icons@2x.png); background-size:25px 350px;}
+
+	#carousel .flex-direction-nav a {background-image:url(../images/slider/direct-nav-thumb@2x.png); background-size:48px 24px;}
+
+}
+
+@media only screen and (max-width: 767px) and (-webkit-min-device-pixel-ratio: 1.5) {
+
+	.flex-control-nav li a {background-image: url(../images/slider/bullet-nav@2x.png) !important; background-size:15px 68px;}
+
+}
+
+
+
+/* IE7-IE8 Fixes*/
+
+.lt-ie9 ul.checkmark li {background-image: url(../images/checkmark.png); background-size: 11px 12px; }
+
+.lt-ie9 ul.arrow li { background-image:url(../images/sidebar-arrow.png); background-size:15px 35px;}
+
+.lt-ie9 .flex-direction-nav a {background-image: url(../images/slider/direct-nav.png); background-size:80px 40px;}
+
+.lt-ie9 .search-drop-down {background-image:url(../images/search-drop-down.png); background-size:45px 46px;}
+
+.lt-ie9 #search-container label.assistive-text { background-image:url(../images/assistive-text.png); background-size:40px 40px;}
+
+.lt-ie9 span.phone-header-top { background-image:url(../images/phone-header-top.png); background-size:20px 25px;}
+
+.lt-ie9 a.email-header-top {background-image:url(../images/email-header-top.png); background-size:20px 25px;}
+
+.lt-ie9 a#scrollToTop {  background-image:url(../images/back-to-top.png); background-size:82px 200px;}
+
+.lt-ie9 .flex-control-paging li a {background: url(../images/slider/button.png); background-size:20px 60px;}
+
+.lt-ie9 #sidebar ul li {background-image:url(../images/sidebar-list.png); background-size:8px 7px;}
+
+.lt-ie9 footer ul li { background-image:url(../images/footer-list.png) ; background-size:8px 7px;}
+
+.lt-ie9 .social-icons-widget a {background-image:url(../images/social-icons.png); background-size:684px 48px; }
+
+.lt-ie9 #sidebar .searchform, .lt-ie9 footer .searchform {background-image:url(../images/magnify.png); background-size:28px 28px;}
+
+.lt-ie9 input#price-min, .lt-ie9 input#price-max {background-image:url(../images/dollar-sign@.png); background-size:20px 22px;}
+
+.lt-ie9 .property-highlight .sq-highlight, .lt-ie9 .property-highlight .bed-higlight, .lt-ie9 .property-highlight .bath-higlight, .lt-ie9 .property-highlight .garage-higlight, .lt-ie9 .property-highlight .time-higlight, .lt-ie9 .property-status {background-image: url(../images/property-icons.png); background-size:25px 350px;}
+
+.lt-ie9 #carousel .flex-direction-nav a {background-image:url(../images/slider/direct-nav-thumb.png); background-size:48px 24px;}
+
+
+
+
+
+/*
+
+=============================================== 01. TESTING TEXT ===============================================
+
+*/
+
+body:after {position:relative; z-index:55; content: "less than 320px";font-size: 300%;font-weight: bold;position: fixed;bottom: 60px;width: 100%;text-align: center;background-color: hsla(1,60%,40%,0.7);color: #fff;
+
+display:none !important; /* -------------------- ADD OR REMOVE display:none !important; to display testing text -------------------- */}
+
+
+
+
+
+
+
+/*
+
+=============================================== 02. BASE STYLES (960px) ===============================================
+
+*/
+
+/* Note: Design for a width of 960px */
+
+body:after {content: "Wider than 960px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */
+
+html {-webkit-text-size-adjust: none;}	/* Removes webkit font resizing */ 
+
+body {max-width:100%; width:100%;}
+
+img {max-width:100%; height: auto; }
+
+.width-container, #search-container input.field, #container-sidebar, #sidebar,
+
+.grid2column, #container-sidebar, #sidebar, .grid2column, .grid3column, .grid3columnbig, .grid4column, .grid4columnbig {-moz-transition: all .2s ease-in-out; -webkit-transition: all .2s ease-in-out; }
+
+
+
+
+
+
+
+/*
+
+=============================================== 04. #Tablet (Portrait) ===============================================
+
+*/
+
+/* Note: Design for a width of 768px */
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+body:after {content: "768 to 959px";background-color: hsla(270,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+
+
+
+/* Default Width */
+
+.width-container { width: 720px; }
+
+#container-sidebar {/*width:492px;*/ }
+
+#sidebar {width:212px; }
+
+
+
+
+
+/* Default Grid */
+
+.grid2column {width:329px;}
+
+.grid4column {width:154px;}
+
+.grid4columnbig {width:502px;}
+
+.grid3column {width:212px;}
+
+.grid3columnbig {width:444px;}
+
+
+
+#container-sidebar .grid2column {width:215px; }
+
+#container-sidebar .grid4column {width:97px;}
+
+#container-sidebar .grid4columnbig {width:331px;}
+
+#container-sidebar .grid3column {width:136px;}
+
+#container-sidebar .grid3columnbig {width:292px;}
+
+
+
+/* Misc Fixes */
+
+.commentlist {width:72%;}
+
+.property-listing-thumb {width:100%; float:none;}
+
+.property-information {width:100%;  float:none; }
+
+
+
+/* Advanced Search Area */
+
+#search-container input.field {width:480px; }
+
+#search-container #panel-search .header-advanced-bedbath select {width:80px; margin-left:12px;}
+
+#search-container #panel-search .header-prop-typestatus select {margin-left:14px; width:137px;}
+
+#search-container #panel-search .hidden-value-tablet {display:none;}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+/*
+
+=============================================== 05. #Mobile (Portrait) ===============================================
+
+*/
+
+/* Note: Design for a width of 320px */
+
+
+
+@media only screen and (max-width: 767px) {
+	.mobile-visible-xs{
+		display:block !important;
+	}
+	.mobile-hidden-xs{
+		display:none !important;
+	}
+	.maps_popups a.ft-acolr {
+    font-size: 12px;
+}
+	.maps_popups h1 {
+    font-size: 12px;
+    font-weight: 500;
+    margin: 0 0 5px;
+}
+.maps_popups p {
+    margin-bottom: 3px;
+}
+.maps_popups a.contact-clinic {
+    font-size: 12px !important;
+    margin: 1px !important;
+    padding: 6px !important;
+    text-transform: capitalize !important;
+}
+
+.maps_popups span.email{
+    text-align: left;
+				padding:0px !important;
+}
+.maps_popups .tel, .maps_popups .email, .maps_popups .web{
+	float:left;
+	width:100%;
+	position:relative;
+	padding-left:20px;
+}
+.maps_popups .tel label, .maps_popups .email label, .maps_popups .web label{
+	float:left;
+	font-size:0px;
+	width:16px;
+	height:16px;
+	display:inline-block;
+	margin-right: 5px;
+	margin-top: 1px;
+	position:absolute;
+	left:0px;
+}
+.maps_popups .tel label{
+	background:url(../img/pops-icon-phone.png) no-repeat left top;
+}
+.maps_popups .email label{
+	background:url(../img/pops-icon-email.png) no-repeat left top;
+}
+.maps_popups .web label{
+	background:url(../img/pops-icon-url.png) no-repeat left top;
+}
+
+
+	.planpack-details > h2 {
+    font-size: 26px !important;
+    padding-bottom: 10px !important;
+}
+
+body:after {content: "0 to 480px"; background-color: hsla(90,60%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */ 
+
+
+
+
+
+/* Default Width */
+
+.width-container { width: 300px; }
+
+
+
+
+
+/* Default Grid */
+
+.grid2column, #container-sidebar, #sidebar, .grid2column, .grid3column, .grid3columnbig, .grid4column, .grid4columnbig, #container-sidebar .grid2column, #container-sidebar .grid3column, #container-sidebar .grid3columnbig, #container-sidebar .grid4column, #container-sidebar .grid4columnbig {width:100%; margin-bottom:15px;}
+
+
+
+/* Misc Fixes */
+
+span.copyright-left {width:100%; }
+
+#featured-slider { padding:10px; }
+
+header #logo, footer #copyright, .header-top-left, .width-container .social-icons {float:none; margin:0 auto; text-align:center;}
+
+.width-container .social-icons {padding:6px 0px 0px 0px;}
+
+a.email-header-top {white-space:pre-line; display:inline-block;}
+
+.flex-caption { display: none; }  
+
+body #search-container input.submit {	padding:0px 20px;}
+
+#search-container input.field {width:130px; }
+
+a#scrollToTop {   margin:20px auto -30px auto; float: none;  }
+
+.advanced-search-form input {width:92%; }
+
+.advanced-search-form .advanced-two-column input#price-min, .advanced-search-form .advanced-two-column input#price-max {width:92%;}
+
+.commentlist {width:95%; left:-10px;}
+
+.commentlist .children li.comment .comment-meta {margin-left:0px;}
+
+.commentlist .avatar, .commentlist > li:before {display:none;}
+
+.agent-thumb {float:left; width:45%; }
+
+.agent-details {float:left; width:49%;   }
+
+.agent-social {padding-top:20px; margin-bottom:-10px; float:none; width:100%;  text-align:center; overflow:hidden;}
+
+h2.title-bg span {float:none; display:block; margin-top:5px;}
+
+ul.additional-features li {width:100%; margin-right:0px;}
+
+
+
+.property-listing-thumb {width:100%; float:none;}
+
+.property-information {width:100%;  float:none; }
+
+.property-listing-base .lastcolumn, .property-listing-base {text-align:center;}
+
+
+
+/* Advanced Search Area */
+
+#panel-search, a.search-drop-down {display:none !important;}
+
+
+
+/* Select Menu */
+
+nav {position:static; }
+
+nav select option {font-size:12px; background:#fff; color:#888;}
+
+header nav {float:none; text-align:center; z-index:0; }
+
+nav select { text-transform:none; display:block; margin:-10px auto 20px auto; width:300px; min-width: 150px; max-width: 100%; -webkit-appearance: none; -moz-appearance: normal; appearance: normal;
+
+-webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;
+
+ -webkit-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); -moz-box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1);
+
+-webkit-padding-end: 20px; -webkit-padding-start: 2px; -webkit-user-select: none;-moz-user-select: none;
+
+background-image: url(../images/select-arrow.png),  -webkit-linear-gradient(#FAFAFA, #f9f9f9 40%, #e8e8e8);
+
+background: linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+
+background-image: -moz-linear-gradient(#FAFAFA, #F4F4F4 40%, #E5E5E5);
+
+background-position: center right; background-repeat: no-repeat;
+
+font-size:13px;
+
+border: 1px solid #aaaaaa;
+
+color: #555555;
+
+padding:7px 5px 7px 10px;}
+
+
+
+#toppanel {display:none !important;}
+
+
+
+
+
+}
+
+
+
+
+
+/*
+
+=============================================== 06. #Mobile (Landscape) ===============================================
+
+*/
+
+/* Note: Design for a width of 480px */
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+body:after { content: "480 to 767px"; background-color: hsla(150,50%,40%,0.7);}/* Notify what @media browser is using, Disable above by display:none; */
+
+
+
+/* Default Width */
+
+.width-container { width: 420px; }
+
+.advanced-search-form input {width:94%; }
+
+
+
+/* Misc Fixes */
+
+#search-container input.field {width:250px; }
+
+
+
+
+
+}
+

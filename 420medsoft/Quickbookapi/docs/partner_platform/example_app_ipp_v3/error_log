@@ -1,0 +1,1 @@
+[21-Apr-2015 07:25:17 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bayfrontorganics/public_html/bayfront/Quickbookapi/QuickBooks/Driver/Sql/Mysql.php on line 289

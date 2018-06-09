@@ -1,0 +1,330 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>Super Store Finder - Easy to use Google Maps API Store Finder</title>
+	
+	<meta name="description" content="Super Store Finder is a fully featured PHP Application integrated with Google Maps API v3 that allows customers to locate your stores easily. Packed with Geo IP technology, your customers will be able to view a list of nearby stores / outlets around them sorted by distance.
+
+Setup is really easy and quick while deploying the store finder to any website gets even easier when you can embed it to any web page or CMS (Joomla/Wordpress/Drupal/etc) by simply copy and paste the embed code. The responsive user interface works on various platform such as PC, laptops, smart phones and other mobile devices.">
+	<meta name="author" content="Joe Iz">
+	<meta name="copyright" content="Joe Iz">
+	<meta name="generator" content="Documenter v1.6 http://rxa.li/documenter">
+	<meta name="date" content="2012-12-14T00:00:00+01:00">
+	
+	<link rel="stylesheet" href="css/documenter_style.css" media="all">
+	
+	
+	<script src="js/jquery.1.6.4.js"></script>
+	
+	<script src="js/jquery.scrollTo-1.4.2-min.js"></script>
+	<script src="js/jquery.easing.js"></script>
+	
+	
+	<script>document.createElement('section');var duration=500,easing='swing';</script>
+	<script src="js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#383838;}
+		::-moz-selection{background:#444444;color:#DDDDDD;}
+		::selection{background:#444444;color:#DDDDDD;}
+		#documenter_sidebar #documenter_logo{background-image:url();}
+		a{color:#0000FF;}
+		hr{border-top:1px solid #EBEBEB;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ol a{background-color:#DDDDDD;color:#222222;}
+		#documenter_sidebar ol a{-webkit-text-shadow:1px 1px 0px #EEEEEE;-moz-text-shadow:1px 1px 0px #EEEEEE;text-shadow:1px 1px 0px #EEEEEE;}
+		#documenter_sidebar ol{border-top:1px solid #AAAAAA;}
+		#documenter_sidebar ol a{border-top:1px solid #EEEEEE;border-bottom:1px solid #AAAAAA;color:#444444;}
+		#documenter_sidebar ol a:hover{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_sidebar ol a.current{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+		h3{padding-top:100px;}
+		.doc-text{
+		color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">To view to the Administrator&#39;s Area visit the&nbsp;
+		}
+	</style>
+	
+</head>
+<body>
+<div style="position:fixed; z-index:99999; top:0px; left:0px; display:block;width:100%; height:145px;"><iframe src="../guide_header.html" width="100%" height="145px" frameborder=0 scrolling="no"></iframe></div>
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo"></a>
+		<ol id="documenter_nav">
+			<li><a class="current" href="#documenter_cover">Start</a></li>
+			<li><a href="#setting_up_the_database">Setting up the Database</a></li>
+			<li><a href="#setting_up_the_config_files">Running the Installer</a></li>
+			<li><a href="#administrator_s_area">Administrator's Area</a></li>
+			<li><a href="#managing_multiple_admin_users">Managing Multiple Admin Users</a></li>
+			<li><a href="#managing_stores">Managing Stores</a></li>
+			<li><a href="#configuring_settings">Configuring Settings</a></li>
+			<li><a href="#how_to_disable_geo_ip">How to Disable Geo IP</a></li>
+			<li><a href="#embedding_your_store_finder">Embedding your Store Finder?</a></li>
+			<li><a href="#using_the_store_finder">Using the Store Finder</a></li>
+			<li><a href="#support">Support</a></li>
+
+		</ol>
+		<div id="documenter_copyright">Copyright Joe Iz 2012 - 2015<br>
+		made with the <a href="http://rxa.li/documenter">Documenter v1.6</a> 
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="documenter_cover"><h1>Super Store Finder</h1><h2>Easy to use Google Maps API Store Finder</h2><hr><ul><li>Created: 12/14/2012</li><li>latest Update: 12/14/2012</li><li>By: Joe Iz</li><li><a href=""></a></li><li>Email: <a href="mailto:shihtzupyramid@gmail.com">shihtzupyramid@gmail.com</a></li><li>
+	
+	<br>
+	<strong>* Updated 29 Jan 2015 :</strong> You can now Install Super Store Finder in 2 Easy Step. <br />
+	You may refer to the video guide here: <a href="https://www.youtube.com/watch?v=ut54uUZp63M" target="new">http://www.youtube.com/watch?v=V3Kte43-HtM</a></li></ul><p>Super Store Finder is a fully featured PHP Application integrated with Google Maps API v3 that allows customers to locate your stores easily. Packed with Geo IP technology, your customers will be able to view a list of nearby stores / outlets around them sorted by distance.
+
+Setup is really easy and quick while deploying the store finder to any website gets even easier when you can embed it to any web page or CMS (Joomla/Wordpress/Drupal/etc) by simply copy and paste the embed code. The responsive user interface works on various platform such as PC, laptops, smart phones and other mobile devices.</p><p><b>Important Note:</b> Super Store Finder now comes with two separate folders, if you wish to use the non-responsive version kindly extract <b>superstorefinder.zip</b>. In the other hand if you wish to use the responsive version which supports mobile devices, please extract <b>superstorefinder_responsive.zip</b>.</p></section><section id="setting_up_the_database">
+	<h3>Setting up the Database</h3><hr class="notop">
+<p><span class="doc-text">Create a MySQL database via your hosting or dedicated server control panel. </span></p>
+
+
+	<center>
+	<img src="assets/images/ssfcreatedb0.jpg" />
+	</center>
+	<p><span class="doc-text">Then, create a database by entering database name, username and password and give specific permission and privilege to access the database.</p>
+	<center>
+	<img src="assets/images/ssfcreatedb.jpg" /> 
+	</center>
+
+	
+	<p><span class="doc-text">Remeber the database information below which is needed to run the Installer in the next step.</span></p>
+	<center>
+	<img src="assets/images/ssfcreatedb2.jpg" />
+	</center>
+
+
+<p>&nbsp;
+	</p>
+</section>
+<section id="setting_up_the_config_files">
+	<h3>Running the Installer</h3><hr class="notop">
+<p>
+	Firstly, set the following files and folders to writable (chmod 666 or right click the file/folder and set permission to writable - <strong>recursively</strong>):
+<p>
+	Files:
+	</p>
+	<ol>
+<li>/includes/config.inc.php</li>
+<li>/admin/includes/config.inc.php</li>
+</ol>
+Folders:
+<ol>
+<li>/temp_upload</li>
+<li>/admin/temp_upload/</li>
+<li>/admin/imgs</li>
+</ol>	
+</p>
+
+<p><span class="doc-text">Enter the full url of where you have installed Super Store Finder (i.e http://yourwebsite.com/superstorefinder/). For fresh install, it will automatically points you to Installation page. Enter the database credentials to the Installation Step 1 as below.</span></p>
+<center>
+	<img src="assets/images/ssfinstall1.jpg" />
+	</center>
+	
+	<p><span class="doc-text">If all goes well, you will see Database schema successfully created message. Now, enter the administrator's password, email, default language and default unit distance and click Complete Installation.</span></p>
+<center>
+	<img src="assets/images/ssfinstall2.jpg" />
+	</center>
+	
+	<p><span class="doc-text">You are done! You can now visit your store finder or manage your stores via Administrator Area.</span></p>
+<center>
+	<img src="assets/images/ssfinstall3.jpg" />
+	</center>
+
+
+</section>
+<section id="administrator_s_area">
+	<h3>Administrator's Area</h3><hr class="notop">
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">To view to the Administrator&#39;s Area visit the&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&#39;/admin&#39;</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&nbsp;. You will be required to login using the password you've chosen during Installation.</span></p>
+
+	</p>
+<p>
+	<img alt="Administrator's Area" src="assets/images/image_1.jpg"></p>
+</section>
+<section id="managing_multiple_admin_users">
+	<h3>Managing Multiple Admin Users</h3><hr class="notop">
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">You can have multiple admin users to manage your stores using the administrator area. Features such as Add/Edit/Delete admin users and change their password are available. To add a new admin user, login to administrator&#39;s area and click on <strong>&#39;Add Admin User&#39;</strong> from the navigation bar. To view / edit / delete admin users, click on <strong>&#39;Admin User List&#39;</strong>.</span></p>
+<p>
+	<img alt="Managing Multiple Admin Users" src="assets/images/image_2.jpg"></p>
+</section>
+<section id="managing_stores">
+	<h3>Managing Stores</h3><hr class="notop">
+<h2>
+	Viewing Store List</h2>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">This will display all your store list from the database. You can add more store by clicking&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Store List</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&nbsp;link at the top navigation. To edit or delete a specific Store use the edit icon for each store.</span></p>
+<p>
+	<img alt="Store List" src="assets/images/image_5.jpg"></p>
+<p>&nbsp;
+	</p>
+<p>&nbsp;
+	</p>
+<h2>
+	Adding a Store</h2>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">To add a Store click the&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Add Store</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&nbsp;link from the main navigation. Here you can enter Store Name, Store Address, Upload picture, etc. Longitude and Latitude values will be auto detected upon entering an address.</span></p>
+<p>
+	<img alt="Add Store" src="assets/images/image_6.jpg"></p>
+	
+	<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Additionally, you can import / geocode bulk stores via CSV (video guide here https://www.youtube.com/watch?v=R784bmcW0hw)</span></p>
+<p>
+	<img alt="Add Store" src="assets/images/image_6a.jpg"></p>
+<p>&nbsp;
+	</p>
+<h2>&nbsp;
+	</h2>
+<h2>
+	Editing a Store</h2>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Firstly navigate&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">to&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Store List </strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">from the main navigation menu. To edit a Store click the&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Edit</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&nbsp;icon for a store. You can make changes here and save.</span></p>
+<p>
+	<img alt="Edit Store" src="assets/images/image_7.jpg"></p>
+<p>&nbsp;
+	</p>
+<h2>&nbsp;
+	</h2>
+<h2>
+	Deleting a Store</h2>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Firstly navigate&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">to&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Store List&nbsp;</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">from the main navigation menu.&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">To delete a Store click the&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Delete</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">&nbsp;icon for a particular store. You will be prompted with a confirmation.</span></p>
+<p>&nbsp;
+	</p>
+<p>&nbsp;
+	</p>
+<h2>
+	Approving a Store</h2>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Firstly navigate&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">to&nbsp;</span><strong style="padding: 0px; margin: 0px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Store List&nbsp;</strong><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">from the main navigation menu.&nbsp;</span><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Stores that have added by users from frontend by default will be having status of &#39;Not Approved&#39;, this means that they must be approved by an admin user before it&#39;s visible at frontend. Administrators can approve a store add request by clicking the Approve link from the <strong>Action</strong> column.</span></p>
+</section>
+
+
+<section id="configuring_settings">
+	<h3>Configuring Settings</h3><hr class="notop">
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">At the admin area, click on the cog icon at the top right of the page.</span></p>
+<p>
+	<img alt="Managing Multiple Admin Users" src="assets/images/image_11.jpg"></p>
+	
+	
+	<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">You can set the default language, distance, initial zoom, zoom here, geo ip settings and default initial location as screenshot below.</span></p>
+	
+	
+	<p>
+	<img alt="Managing Multiple Admin Users" src="assets/images/image_11a.jpg"></p>
+	
+		<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">You can set the styling of the map, refer to below screenshot for reference.</span></p>
+	
+	
+	
+	<p>
+	<img alt="Managing Multiple Admin Users" src="assets/images/image_11b.jpg"></p>
+</section>
+
+
+
+<section id="how_to_disable_geo_ip">
+	<h3>How to Disable Geo IP</h3><hr class="notop">
+	
+	
+	<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;"><strong>This has been obsolete, patch 2.4 or later you can set it via config page at admin. You can refer to this guide <a href="http://superstorefinder.net/products/superstorefinder/docs/#!/configuring_settings">here</a></strong></span></p>
+<p>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">If you wish to disable Geo IP, edit index.php and search for:</span></p>
+<p>
+	<code style="padding: 2px 4px; margin: 0px; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; color: rgb(221, 17, 68); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; white-space: nowrap; background-color: rgb(247, 247, 249); border: 1px solid rgb(225, 225, 232); line-height: 20px;">$(&#39;#address&#39;).val(geoip_city()+&quot;, &quot;+geoip_country_name());</code></p>
+<p style="padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">
+	Edit it to your city and country, example:</p>
+<p>
+	<code style="padding: 2px 4px; margin: 0px; font-family: Monaco, Menlo, Consolas, 'Courier New', monospace; color: rgb(221, 17, 68); border-top-left-radius: 3px; border-top-right-radius: 3px; border-bottom-right-radius: 3px; border-bottom-left-radius: 3px; white-space: nowrap; background-color: rgb(247, 247, 249); border: 1px solid rgb(225, 225, 232); line-height: 20px;">$(&#39;#address&#39;).val(&quot;Sydney, Australia&quot;);&nbsp;</code></p>
+<p style="padding: 0px; margin: 0px 0px 10px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">
+	Next edit js/super-store-finder.js and change the following</p>
+<pre>
+<code>
+// auto detect GEO ip, use script below
+gmap_location_lookup(geoip_city()+&#39;, &#39;+geoip_country_name(),&#39;200&#39;,&#39;&#39;);
+</code></pre>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Modify it for example New York. Take note the 200 is the radius by mile of nearby stores you can modify that too.</span></p>
+<pre>
+<code>
+//Hard coding default location 
+gmap_location_lookup(&#39;New York, NY&#39;,&#39;200&#39;,&#39;&#39;); 
+</code></pre>
+<p>&nbsp;
+	</p>
+</section>
+<section id="embedding_your_store_finder">
+	<h3>Embedding your Store Finder?</h3><hr class="notop">
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">You can embed your store finder on any website using the embed code which can be found at index page. Refer screenshot below.</span></p>
+<p>
+	<img alt="Embed Store Finder" src="assets/images/image_10.jpg"></p>
+</section>
+<section id="using_the_store_finder">
+	<h3>Using the Store Finder</h3><hr class="notop">
+<h3>
+	Store Finder Frontend</h3>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">If you have installed the store finder at http://yoursite.com/storefinder, navigate to that path to view the store finder frontend user interface.</span></p>
+<p>
+	<img alt="Super Store Finder" src="assets/images/image_4.jpg"></p>
+<p>&nbsp;
+	</p>
+<h3>
+	Using the Search</h3>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">When you&#39;re searching for a location, the autofill feature will suggest a city name. Press Find Store button to proceed and nearby stores will be displayed on map as well as in the list from the right navigation.</span></p>
+<p>
+	<img alt="Using the Search" src="assets/images/image_8.jpg"></p>
+<p>&nbsp;
+	</p>
+<p>&nbsp;
+	</p>
+<h3>
+	Contacting the Store</h3>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">By clicking on a particular store, it will display the store information such as address, tel and website. If the store has email, a button <strong>Contact this Store</strong> will appear allowing you to contact the store outlet via email.</span></p>
+<p>
+	<img alt="Contacting a Store" src="assets/images/image_9.jpg"></p>
+<p>&nbsp;
+	</p>
+<h3>
+	Request Add Store</h3>
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Wish public users to help grow your store database, if you&#39;re opening a directory listing you can allow public users to click on Add Store link from the navigation menu. Once added, the store will require approval from an administrator before it will be published in the store finder.</span></p>
+<p>
+	<img alt="Request Add Store" src="assets/images/image_3.jpg"></p>
+</section>
+<section id="support">
+	<h3>Support</h3><hr class="notop">
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">We provide fast and reliable support, for inquiry, troubleshooting, customization and special requests, please send an email to Highwarden at <a href="http://codecanyon.net/user/highwarden">http://codecanyon.net/user/highwarden</a></span></p>
+
+<p>
+	<span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">Be sure to follow us on Envato for new releases and future products <a href="http://codecanyon.net/user/highwarden/follow">here</a>.</span></p>
+<p>&nbsp;
+	</p>
+	
+		<p><span style="color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px;">
+	For knowledge base and forums you can visit the following links:
+<br><br>
+<a href="http://superstorefinder.net/support/knowledgebase/"><img src="http://superstorefinder.net/img/kb.png" /></a> <a href="http://superstorefinder.net/support/forums/"><img src="http://superstorefinder.net/img/fr.png" /></a>
+<br><br>
+Or you can visit <a href="http://superstorefinder.net/support">http://superstorefinder.net/support</a>
+	</span></p>
+</section>
+
+	</div>
+</body>
+</html>

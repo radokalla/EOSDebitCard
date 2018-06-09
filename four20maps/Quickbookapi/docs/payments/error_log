@@ -1,0 +1,9 @@
+[16-Nov-2017 11:37:30 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 306
+[16-Nov-2017 11:37:30 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 363
+[16-Nov-2017 11:37:30 UTC] PHP Warning:  QuickBooks_Driver_Sql_Mysqli::_query(): Couldn't fetch mysqli in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 368
+[16-Nov-2017 11:37:30 UTC] PHP Warning:  QuickBooks_Driver_Sql_Mysqli::_query(): Couldn't fetch mysqli in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 369
+[16-Nov-2017 11:37:30 UTC] PHP Warning:  QuickBooks_Driver_Sql_Mysqli::_query(): Couldn't fetch mysqli in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 370
+[16-Nov-2017 11:37:30 UTC] PHP Fatal error:  Error Num.: 
+Error Msg.:
+SQL: SHOW TABLES 
+Database: /example_app_ipp_v3 in /home/four20maps/public_html/Quickbookapi/QuickBooks/Driver/Sql/Mysqli.php on line 374

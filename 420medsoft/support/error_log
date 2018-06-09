@@ -1,0 +1,1 @@
+[03-Jul-2015 07:10:19 UTC] PHP Fatal error:  Class 'Mail_RFC822' not found in /home/medsoft/public_html/support/include/class.validator.php on line 146
