@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background:green;
+	padding:20px 0px;
+	padding:0;
+	margin:0;
+	font-size:14px;
+	font-family: 'Roboto', sans-serif;
+}
+.mainheader{
+	width:1170px;
+	margin:0 auto;
+}
+.haeder{
+	background:#fff;
+	padding:6px 0px;
+	text-align:center;
+}
+.title{
+	color:#fff;
+	font-size:36px;
+	text-align:center;
+	padding:10px 0px 20px 0px;
+}
+.order{
+	text-align:center;
+	font-size:48px;
+	text-transform:uppercase;
+	color:green;
+}
+.collect{
+	padding:30px 0px;
+	font-size:26px;
+	text-align:center;
+	color:#fff;
+}
+.mainwrap{
+	margin:0 auto;
+	width:1170px;
+}
+.wht-box{
+	width:400px;
+	height:200px;
+	margin:0 auto;
+}
+.box{
+	font-size:150px;
+	text-align:center;
+	color:green;
+	background:#fff;
+	padding:5px;
+	-moz-border-radius: 10px;
+-webkit-border-radius: 10px;
+border-radius: 10px; /* future proofing */
+-khtml-border-radius: 10px; /* for old Konqueror browsers */
+border:solid 4px green;
+-webkit-box-shadow: 0px 1px 4px 6px #0d6904;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:  0px 1px 4px 6px #0d6904;  /* Firefox 3.5 - 3.6 */
+  box-shadow:       0px 1px 4px 6px #0d6904;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+ }
+ .ftlogo{
+	 margin-top:40px;
+	 padding:10px 0px;
+	 text-align:center;
+	
+}
+.clearfix{
+	clear:both;}
+.thk{
+	font-family: 'Dancing Script', cursive;
+	
+	padding:80px 0px 40px 0px;
+	text-align:center;
+	color:#fff;
+	font-size:80px;}

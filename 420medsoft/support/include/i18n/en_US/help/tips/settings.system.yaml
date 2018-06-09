@@ -1,0 +1,90 @@
+#
+# This is popup help messages for the Admin Panel -> Settings -> System
+#
+# Fields:
+# title - Shown in bold at the top of the popover window
+# content - The body of the help popover
+# links - List of links shows below the content
+#   title - Link title
+#   href - href of link (links starting with / are translated to the
+#       helpdesk installation path)
+#
+# The key names such as 'helpdesk_name' should not be translated as they
+# must match the HTML #ids put into the page template.
+#
+---
+helpdesk_status:
+    title: Helpdesk Status
+    content: >
+        If the status is changed to <span
+        class="doc-desc-opt">Offline</span>, the client interface will be
+        disabled.  This does not however affect any normal Agent interaction
+        with the Agent Panel.
+
+helpdesk_url:
+    title: Helpdesk URL
+    content: >
+        This URL is the base of your osTicket installation. It is used in email
+        communication to direct end-users back to your helpdesk.
+
+helpdesk_name_title:
+    title: Helpdesk Name/Title
+    content: >
+        This is the title that appears in the browser tab. If your help desk
+        page is bookmarked, this will be the title/name of the site page.
+
+default_department:
+    title: Default Department
+    content: >
+        Choose a default <span class="doc-desc-title">department</span>
+        for tickets that are not automatically routed to a department.
+        <br/><br/>
+        Ticket can be routed base on help topic, incoming email and ticket
+        filter settings.
+
+default_page_size:
+    title: Default Page Size
+    content: >
+        Choose the number of items shown per page in the Ticket Queues in the
+        Staff Panel. Each Agent can also customize this number for their own
+        account under <span class="doc-desc-title">My Preferences</span>.
+
+default_log_level:
+    title: Default Log Level
+    content: >
+        Determine the minimum level of issues which will be recorded in the
+        <span class="doc-desc-title">system log</span>. <span
+        class="doc-desc-opt">Debug</span> represents the least severity, and <span
+        class="doc-desc-opt">Error</span> represents the greatest severity.
+        For example, if you want to see all issues in the <span
+        class="doc-desc-title">System Logs</span>, choose <span
+        class="doc-desc-opt">Debug</span>.
+
+purge_logs:
+    title: Purge Logs
+    content: >
+        Determine how long you would like to keep <span
+        class="doc-desc-title">System Logs</span> before they are deleted.
+
+default_name_formatting:
+    title: Default Name Formatting
+    content: >
+        Choose a format for names throughout the system. Email templates
+        will use it for names if no other format is specified in the
+        variable.
+
+    links:
+      - title: Supported Email Template Variables
+        href: http://osticket.com/wiki/Email_templates
+
+# Date and time options
+date_time_options:
+    title: Date &amp; Time Options
+    content: >
+        The following settings define the Date &amp; Time settings for
+        Clients. You can change how these appear by following the PHP date
+        format characters. The dates shown below simply illustrate the
+        result of their corresponding values.
+    links:
+      - title: See the PHP Date Formatting Table
+        href: http://www.php.net/manual/en/function.date.php

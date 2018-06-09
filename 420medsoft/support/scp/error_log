@@ -1,0 +1,3 @@
+[22-Jun-2015 10:31:34 UTC] PHP Fatal error:  Call to a member function setTabActive() on a non-object in /home/medsoft/public_html/support/scp/profile.php on line 45
+[03-Jul-2015 07:07:13 UTC] PHP Parse error:  syntax error, unexpected ''' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home/medsoft/public_html/support/include/class.template.php on line 64
+[03-Jul-2015 07:07:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/medsoft/public_html/support/include/class.topic.php on line 133
